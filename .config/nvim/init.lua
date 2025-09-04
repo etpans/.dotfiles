@@ -54,7 +54,7 @@ require("lazy").setup({
 	require("plugins.markdown-preview"),
 	require("plugins.noice"),
 	-- require("plugins.render-markdown"),
-    require("plugins.markview"),
+	require("plugins.markview"),
 	require("plugins.which-key"),
-    require("plugins.mini-surround"),
+	require("plugins.mini-surround"),
 })
